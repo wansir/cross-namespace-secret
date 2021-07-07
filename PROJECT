@@ -1,0 +1,7 @@
+domain: demo.io
+repo: secrets
+resources:
+- group: resources
+  kind: Secret
+  version: v1alpha1
+version: "2"
